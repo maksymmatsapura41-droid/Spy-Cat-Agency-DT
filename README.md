@@ -13,7 +13,7 @@ API to control cats spy missions
 3.source venv/bin/activate   # Linux/macOS
 4.venv\Scripts\activate      # Windows
 5.pip install -r requirements.txt
-6.cd spy-cat-agency
+6.cd spy_cat_agency
 7.python manage.py migrate
 8.python manage.py runserver
 ```
